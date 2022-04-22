@@ -186,7 +186,7 @@ const logIn = async (req, res) => {
 
 
 
-        var input = await userModel.findOne({ email})
+        var input = await userModel.findOne({ email}) //password think about it
 
         if (!input)
             return res.status(404).send({ status: false, msg: "user not found please enter valid credentials" })
