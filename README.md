@@ -1,9 +1,3 @@
-#Thorium
-
-repolink : https://github.com/Manish-162403/project-productsManagementGroup10.git
-
-database: mongodb+srv://komalbansod_04:BdcyrSiZZa4v5y76@komal04.fvnel.mongodb.net/group10Database?retryWrites=true&w=majority
-
 ## Project - Products Management
 
 ### Key points
